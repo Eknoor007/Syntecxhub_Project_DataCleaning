@@ -1,9 +1,8 @@
-# Syntecxhub_Project_DataCleaning
-Titanic Data Cleaning Project
+# Titanic Data Cleaning Project
 
 This project focuses on cleaning and preprocessing the Titanic dataset using Python and Pandas.
 
-Key Steps Performed
+## Key Steps Performed
 
 Removed highly sparse columns
 
